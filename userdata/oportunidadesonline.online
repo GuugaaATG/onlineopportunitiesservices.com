@@ -1,0 +1,26 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/oportunidadesonline.online
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/oportunidadesonline.online-bytes_log
+documentroot: /home1/oport628/public_html
+group: oport628
+hascgi: 0
+homedir: /home1/oport628
+ip: 108.179.192.163
+owner: root
+phpopenbasedirprotect: 1
+phpversion: ea-php73
+port: 80
+scriptalias: 
+  - 
+    path: /home1/oport628/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@oportunidadesonline.online
+serveralias: mail.oportunidadesonline.online www.oportunidadesonline.online
+servername: oportunidadesonline.online
+usecanonicalname: 'Off'
+user: oport628

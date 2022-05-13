@@ -1,0 +1,18 @@
+--- 
+documentroot: /home1/oport628/public_html
+group: oport628
+hascgi: 0
+homedir: /home1/oport628
+ip: 108.179.192.163
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@oportunidadesonline.online
+serveralias: mail.oportunidadesonline.online www.oportunidadesonline.online
+servername: oportunidadesonline.online
+ssl: 1
+usecanonicalname: 'Off'
+user: oport628
+userdirprotect: ''
